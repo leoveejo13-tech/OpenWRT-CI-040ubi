@@ -1,6 +1,7 @@
 #科学插件调整
 CONFIG_PACKAGE_luci-app-homeproxy=y
 CONFIG_PACKAGE_luci-app-openclash=y
+CONFIG_PACKAGE_luci-app-accesscontrol-plus=y
 #增加插件
 #iStore 商店(iStoreX 首页+应用商店)
 CONFIG_PACKAGE_luci-app-istorex=y
